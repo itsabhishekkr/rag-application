@@ -12,8 +12,6 @@ A comprehensive Retrieval Augmented Generation (RAG) application built with Next
 
 ![RAG-APP](./rag.png)
 
-#### 🎥 **YouTube Video:** [Click here](https://www.youtube.com/watch?v=2CrcchGCpcw)
-
 ## 🔐 Security & Privacy
 
 ⚡ **Important Note:**
@@ -56,7 +54,7 @@ A comprehensive Retrieval Augmented Generation (RAG) application built with Next
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/BCAPATHSHALA/RAGApplication.git
+git clone https://github.com/itsabhishekkr/rag-application
 cd RAGApplication
 ```
 
@@ -313,7 +311,3 @@ For issues and questions:
 - Review the API documentation
 - Visit [Qdrant Cloud Documentation](https://qdrant.tech/documentation/)
 
-## Social Links
-
-- [LinkedIn](https://linkedin.com/in/manojofficialmj)
-- [Twitter](https://twitter.com/manojofficialmj)
